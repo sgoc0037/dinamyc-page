@@ -1,0 +1,9 @@
+.tools {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    top: 90%;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
